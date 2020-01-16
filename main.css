@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  line-height: 40px;
+  padding: 20px;
+  text-align: center;
+}
+
+.value {
+  width: 80px;
+  height: 20px;
+}
+
+.submit {
+  width: 70px;
+  height: 20px;
+  background-color: lightslategray;
+  color: aliceblue;
+}
